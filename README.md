@@ -1,6 +1,6 @@
 # 🎤 Custom Voice Channel
 
-[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://autocode.com/app/harukolink/customvc/)
 
 Creates a Custom VC when someone joins a specific VC!
 
